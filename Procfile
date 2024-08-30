@@ -1,1 +1,1 @@
-worker: python karim.py
+worker: python app.py
